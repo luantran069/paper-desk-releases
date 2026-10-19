@@ -1,6 +1,6 @@
 {
     "schema_version":  1,
-    "lock_enabled":  true,
+    "lock_enabled":  false,
     "unlock_key_sha256":  "76416aee6a2697d8eb5a9a69138ef15b1ace13a56e27883a9d120038eade8f81",
     "message":  ""
 }
